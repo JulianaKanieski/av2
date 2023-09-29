@@ -1,16 +1,25 @@
 body{
- background-color: rgb(20, 147, 220);
+  background-color: aqua;
 }
 h1{
-  font-size: 120px; 
-  text-align: center; 
-}
-img{
-    width: 600px;
-    height: 500px
+  text-align: center;
 }
 p{
-    font-size: 30px;
-    margin:10px;
-    text-align:center
+  font-size: medium;
+  color: azure;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+img{
+  width: 400px;
+  height: 400px;
+  margin: 90px;
+}
+.cabecalho{
+  background-color: blueviolet;
+  display: flex;
+}
+.logoing{
+  width: 300px;
 }
