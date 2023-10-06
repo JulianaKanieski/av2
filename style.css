@@ -1,5 +1,5 @@
 body{
-  background-color: aqua;
+  background-color: rgb(255, 0, 157);
 }
 h1{
   text-align: center;
@@ -23,3 +23,16 @@ img{
 .logoing{
   width: 300px;
 }
+  .listadecabecalho{
+    display: flex;
+    margin-left: 730px;
+    margin-top: 125px;
+  }
+  .itemlistacabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    color: black;
+    font-size: 30px;
+    padding-left: 35px;
+  }
+
